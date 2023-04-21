@@ -11,8 +11,10 @@ Kendrea Lam Wan Wen (@kendreaa)
 
 Ng Qi Wei (@beegpapa) 
 - code
-- 
-Dominic Lai Meng Xuan (@dominiclaimx) - code
+- slides
+Dominic Lai Meng Xuan (@dominiclaimx) 
+- code
+- script
 
 ## Dataset:
 
