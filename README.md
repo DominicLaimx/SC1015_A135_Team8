@@ -9,11 +9,11 @@ Kendrea Lam Wan Wen (@kendreaa)
 - code
 - video
 
-Ng Qi Wei (@beegpapa) 
+Ng Qi Wei (@BeegPapa) 
 - code
 - slides
 
-Dominic Lai Meng Xuan (@dominiclaimx) 
+Dominic Lai Meng Xuan (@DominicLaimx) 
 - code
 - script
 
@@ -22,29 +22,32 @@ Dominic Lai Meng Xuan (@dominiclaimx)
 https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
 
 ## Problem definition
+
 What variables are important in predicting AirBnB prices?
 
 Which transformation is best for skewed data?
 
 ## Conclusion 
-City was the most important variable in predicting AirBnB prices
 
-Several variables did not help much in predicting AirBnB prices
+- City was the most important variable in predicting AirBnB prices
 
-Boxcox, log and square root transformation all improved our linear regression model
+- Several variables did not help much in predicting AirBnB prices
 
-Boxcox and log transformation improved our linear regression model the most
+- Boxcox, log and square root transformation all improved our linear regression model
+
+- Boxcox and log transformation improved our linear regression model the most
 
 ## What did we learn from this project?
-Handling imbalanced highly skewed data set
 
-Working with mixed data 
+- Handling imbalanced highly skewed data set
 
-Analysing of different variables in real-world context
+- Working with mixed data 
 
-Using different transformation techniques to improve linear regression
+- Analysing of different variables in real-world context
 
-Evaluating different models based on various metrics
+- Using different transformation techniques to improve linear regression
+
+- Evaluating different models based on various metrics
 
 
 ## Refrences:
