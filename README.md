@@ -13,7 +13,8 @@ Dominic Lai Meng Xuan (@dominiclaimx)
 https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
 
 ## Problem definition
-What variables are important in predicting airBNB prices?
+###What variables are important in predicting airBNB prices?
+
 Which transformation is best for skewed data?
 
 ## Conclusion 
