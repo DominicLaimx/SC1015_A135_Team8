@@ -3,13 +3,13 @@ SC1015 mini-project
 
 ## Done by:
 
-Kendrea Lam Wan Wen
+Kendrea Lam Wan Wen (@kendreaa)
 
-Ng "Beeg Banana" Qi Wei
+Ng Qi Wei (@beegpapa)
 
-Dominic Lai Meng Xuan
+Dominic Lai Meng Xuan (@dominiclaimx)
 
-Dataset:
+## Dataset:
 
 https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
 
@@ -21,6 +21,8 @@ Which transformation is best for skewed data?
 
 ## What did we learn from this project?
 Refrences:
+
+https://towardsdatascience.com/how-and-why-performing-one-hot-encoding-in-your-data-science-project-a1500ec72d85
 
 https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
 
