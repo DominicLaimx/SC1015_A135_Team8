@@ -18,6 +18,13 @@ What variables are important in predicting airBNB prices?
 Which transformation is best for skewed data?
 
 ## Conclusion 
+City was the most important variable in predicting AirBnB prices
+
+Several variables did not help much in predicting AirBnB prices
+
+Boxcox, log and square root transformation all improved our linear regression model
+
+Boxcox and log transformation improved our linear regression model the most
 
 ## What did we learn from this project?
 Handling imbalanced highly skewed data set
