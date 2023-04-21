@@ -28,3 +28,5 @@ https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf
 https://www.geeksforgeeks.org/box-cox-transformation-using-python/
 
 https://towardsdatascience.com/data-transformation-and-feature-engineering-e3c7dfbb4899
+
+https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10
