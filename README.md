@@ -1,5 +1,8 @@
 # SC1015_A135_Team8
 
+## About
+This is our mini-project for SC1015 (Intro to Data Science and Artificial Intelligence) where we explore a dataset on AirBnB prices in european cities. Do take a look at our jupyter notebook code and video <ATTACH LINK>
+
 ## Done by:
 
 Kendrea Lam Wan Wen (@kendreaa)
