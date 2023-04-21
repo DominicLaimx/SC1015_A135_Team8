@@ -5,15 +5,15 @@ This is our mini-project for SC1015 (Intro to Data Science and Artificial Intell
 
 ## Done by:
 
-Kendrea Lam Wan Wen (@kendreaa) 
+Kendrea Lam Wan Wen U2222498J (@kendreaa) 
 - code
 - video
 
-Ng Qi Wei (@BeegPapa) 
+Ng Qi Wei U2221323B (@BeegPapa) 
 - code
 - slides
 
-Dominic Lai Meng Xuan (@DominicLaimx) 
+Dominic Lai Meng Xuan U2221785D (@DominicLaimx) 
 - code
 - script
 
