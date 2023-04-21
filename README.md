@@ -13,14 +13,23 @@ Dominic Lai Meng Xuan (@dominiclaimx)
 https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
 
 ## Problem definition
-### What variables are important in predicting airBNB prices?
+What variables are important in predicting airBNB prices?
 
 Which transformation is best for skewed data?
 
 ## Conclusion 
 
 ## What did we learn from this project?
-Refrences:
+Handling imbalanced highly skewed data set
+Working with mixed data 
+Analysing of different variables in real-world context
+Using different trasnformation techniques to improve linear regression
+Evaluating different models based on various metrics
+
+
+## Refrences:
+
+https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 
 https://towardsdatascience.com/how-and-why-performing-one-hot-encoding-in-your-data-science-project-a1500ec72d85
 
