@@ -21,9 +21,13 @@ Which transformation is best for skewed data?
 
 ## What did we learn from this project?
 Handling imbalanced highly skewed data set
+
 Working with mixed data 
+
 Analysing of different variables in real-world context
+
 Using different trasnformation techniques to improve linear regression
+
 Evaluating different models based on various metrics
 
 
