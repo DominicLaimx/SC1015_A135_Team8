@@ -1,7 +1,7 @@
 # SC1015_A135_Team8
 
 ## About
-This is our mini-project for SC1015 (Intro to Data Science and Artificial Intelligence) where we explore a dataset on AirBnB prices in european cities. Do take a look at our jupyter notebook code and video <ATTACH LINK>
+This is our mini-project for SC1015 (Intro to Data Science and Artificial Intelligence) where we explore a dataset on AirBnB prices in European cities. Do take a look at our jupyter notebook code.
 
 ## Done by:
 
@@ -12,6 +12,7 @@ Kendrea Lam Wan Wen (@kendreaa)
 Ng Qi Wei (@beegpapa) 
 - code
 - slides
+
 Dominic Lai Meng Xuan (@dominiclaimx) 
 - code
 - script
@@ -41,7 +42,7 @@ Working with mixed data
 
 Analysing of different variables in real-world context
 
-Using different trasnformation techniques to improve linear regression
+Using different transformation techniques to improve linear regression
 
 Evaluating different models based on various metrics
 
